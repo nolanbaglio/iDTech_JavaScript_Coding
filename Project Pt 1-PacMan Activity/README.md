@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+In this activity, I created a PacMan figured going across the screen. This program took a lot of debugging, and once I did it, I was very proud of myself. The program is based off of the arcade game, PacMan.
