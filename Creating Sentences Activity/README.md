@@ -1,1 +1,2 @@
 # Creating Sentences Activity
+In This activity, I used for loops to create a sentence. To do this, I made a function called createSentence(). This function uses a for loop to cycle through each word in the array above. To get the exact length of the array and make sure all words were included, I used words.length, where words was the name of my array. In the end, it spelt out "This is Javascript Coding!"
