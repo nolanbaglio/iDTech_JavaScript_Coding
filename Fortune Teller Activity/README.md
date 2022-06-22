@@ -1,1 +1,2 @@
 # Fortune Teller Activity
+This code allows you to pick a number between 0 and 10. Depending on the number you pick, you will have a different fortune. A number between 0-3 will read a negative fortune. A number ranging between 4 and 7 givens you an average fortune. A fortune between 8 and 10 is a good fortune. If the number is not between 0 and 10, the fortune can not be read. This was programmed using conditional statements and funcions.

@@ -1,1 +1,2 @@
 # Working with Basic Data Types Activity
+In this activity, I used basic data types to create a story. This story includes Strings, Arrays, Variables, and Booleans! The story is about a village of Dinosaurs that have never been seen before!
