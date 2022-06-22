@@ -1,1 +1,2 @@
 # Debugging Activity
+In this assignment, I practiced my debugging skills. Each of the examples is a checkpoint, where I would work through the code and find any errors in what was written. I completed all 4 checkpoints. 
