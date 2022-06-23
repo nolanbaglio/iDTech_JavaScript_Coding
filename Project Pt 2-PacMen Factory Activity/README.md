@@ -1,1 +1,2 @@
 # Project Pt 2 - PacMen Factory Activity
+In this project, I created multiple PacMen bouncing on the screen. It used buttons and involved lots of HTML Coding to get it to work as well. This was definetely a challenge for me, since it used lots of different syntax, but after working hard I was able to accomplish this task and got the code working. You press the Start Game button and then you can press Add PacMan to add another pacman to the screen.
